@@ -3,12 +3,14 @@
     "lisp_in":
         {
         "thongdiep":"thiet ke pccc"
-        "bat":true
+        "bat":true,
+        "urlUpdate":"..."
         },
     "lisp_gcode":
         {
         "thongdiep":"huong dan su dung"
-        "bat":true
+        "bat":true,
+        "urlUpdate":"..."
         }
     }
 }
