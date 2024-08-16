@@ -1,16 +1,15 @@
-{"api":
+{
+"lisp_in":
     {
-    "lisp_in":
-        {
-        "thongdiep":"thiet ke pccc"
-        "bat":true,
-        "urlUpdate":"..."
-        },
-    "lisp_gcode":
-        {
-        "thongdiep":"huong dan su dung"
-        "bat":true,
-        "urlUpdate":"..."
-        }
+    "thongdiep":"thiet ke pccc"
+    "bat":true,
+    "urlUpdate":"..."
+    },
+"lisp_gcode":
+    {
+    "thongdiep":"huong dan su dung"
+    "bat":true,
+    "urlUpdate":"..."
     }
+    
 }
