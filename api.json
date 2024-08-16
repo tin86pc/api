@@ -1,6 +1,14 @@
 {"api":
     {
-    "lisp_in":true,
-    "lisp_gcode":true
+    "lisp_in":
+        {
+        "thongdiep":"thiet ke pccc"
+        "bat":true
+        },
+    "lisp_gcode":
+        {
+        "thongdiep":"huong dan su dung"
+        "bat":true
+        }
     }
 }
