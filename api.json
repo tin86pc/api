@@ -1,13 +1,13 @@
 {
 "lisp_in":
     {
-    "thongdiep":"thiet ke pccc"
+    "thongdiep":"thiet ke pccc",
     "bat":true,
     "urlUpdate":"..."
     },
 "lisp_gcode":
     {
-    "thongdiep":"huong dan su dung"
+    "thongdiep":"huong dan su dung",
     "bat":true,
     "urlUpdate":"..."
     }
