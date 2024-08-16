@@ -1,0 +1,13 @@
+{
+    [
+      {
+        "tenDuAn" : "lisp_in",
+        "bat" : true
+      },
+     {
+        "tenDuAn" : "lisp_gcode",
+        "bat" : true
+      }
+
+  ]
+}
