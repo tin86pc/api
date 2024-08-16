@@ -1,13 +1,6 @@
-{
-    [
-      {
-        "tenDuAn" : "lisp_in",
-        "bat" : true
-      },
-     {
-        "tenDuAn" : "lisp_gcode",
-        "bat" : true
-      }
-
-  ]
+{"api":
+    {
+    "lisp_in":true,
+    "lisp_gcode":true
+    }
 }
