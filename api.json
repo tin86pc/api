@@ -5,7 +5,7 @@
         "urlUpdate": "https://tuvanpc.com/"
     },
     "lisp_gcode": {
-        "trangthai": "on",
+        "trangthai": "off",
         "thongdiep": "Thiet ke, tham duyet pccc zalo 0989557317",
         "urlUpdate": "https://tuvanpc.com/"
     }
