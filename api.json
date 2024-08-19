@@ -1,12 +1,16 @@
 {
     "lisp_in": {
         "trangthai": "on",
-        "thongdiep": "Thiet ke, tham duyet pccc zalo 0989557317",
-        "urlUpdate": "https://tuvanpc.com/"
+        "thongdiep": "Zalo 0989557317",
+        "urlUpdate": "https://tuvanpc.com/",
+        "urlHD1": "https://www.google.com.vn/search?q=tuvanpc.com",
+        "urlHD2": "https://tuvanpc.com/hdlispin.html"
     },
     "lisp_gcode": {
         "trangthai": "on",
-        "thongdiep": "Thiet ke, tham duyet pccc zalo 0989557317",
-        "urlUpdate": "https://tuvanpc.com/"
+        "thongdiep": "Zalo 0989557317",
+        "urlUpdate": "https://tuvanpc.com/",
+        "urlHD1": "https://www.google.com.vn/search?q=tuvanpc.com",
+        "urlHD2": "https://www.youtube.com/watch?v=0sW0w90tygg"
     }
 }
