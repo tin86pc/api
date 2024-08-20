@@ -1,0 +1,16 @@
+(
+   ("lisp-in"
+     ("trang-thai" "on")
+     ("thong-diem" "zalo 0989557317")
+     ("url-update" "https://tuvanpc.com/")
+     ("url-hd1" "https://tuvanpc.com/")
+     ("url-hd2" "https://tuvanpc.com/")
+   )
+   ("lisp-gc"
+     ("trang-thai" "on")
+     ("thong-diem" "zalo 0989557317")
+     ("url-update" "https://tuvanpc.com/)
+     ("url-hd1" "https://tuvanpc.com/")
+     ("url-hd2" "https://tuvanpc.com/")
+   )
+)
